@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>GatTinder: trova il tuo gatto preferito</title>
+		
+		<meta charset="UTF-8">
+		<meta name="viewport" 
+			  content="width=device-width, 
+			  initial-scale=1.0">
+		<meta name="author"
+			  author="Giulio Sprega">
+		<meta name="keywords"
+			  content="cerca gatti amore purr frr">
+	</head>
+	
+	<body>
+		<div id="header">
+			<div id="title">
+				<h1>GatTinder</h1>
+			</div>
+			<div id="navBar">
+				<ol>
+					<li>Bacheca Personale</li>
+					<li>Nuovo Post Personale</li>
+					<li>Cerca aMici</li>
+					<li>aMici del ♥</li>
+				</ol>
+			</div>
+		</div>
+		<div id="divBody">
+			<div id="info">
+				<p id="catName">Nome: Djanni</p>
+				<p id="catRace">Razza: Incrocio</p>
+				<p id="catContact">eMail: djannigatto@gmail.com</p>
+			</div>
+			 <div id="posts">
+				<div id="posts">
+					<div>
+						<p>Bla bla bla</p>
+					</div>
+					<div>
+						<p>Blu blu blu</p>
+					</div>
+			 	</div>
+			 </div>
+		</div>
+	</body>
+</html>
