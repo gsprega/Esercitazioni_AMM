@@ -14,19 +14,19 @@
 	</head>
 	
 	<body>
-		<div id="header">
+		<header>
 			<div id="title">
-				<h1>GatTinder</h1>
+				<h1>GatTeender</h1>
 			</div>
-			<div id="navBar">
-				<ol>
-					<li>Bacheca Personale</li>
-					<li>Nuovo Post Personale</li>
-					<li>Cerca aMici</li>
-					<li>aMici del ♥</li>
-				</ol>
-			</div>
-		</div>
+		</header>
+		<nav>
+			<ol>
+				<li>Bacheca Personale</li>
+				<li>Nuovo Post Personale</li>
+				<li>Cerca aMici</li>
+				<li>aMici del ♥</li>
+			</ol>
+		</nav>
 		<div id="divBody">
 			<div id="info">
 				<p id="catName">Nome: Djanni</p>
